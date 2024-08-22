@@ -1,0 +1,49 @@
+  
+  body{
+    background-color: #F8F9FE;
+  }
+  .max-width{
+    max-width: 40% !important;
+   }
+   .bg-darkgreen{
+    background-color: #00A0AA;
+   }
+
+   .text-green{
+     color: #00A0AA;
+   }
+   .fs-70{
+    font-size: 70px;
+   }
+
+   .start-35 {
+    left: 35%!important;
+}
+
+.card{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+.p-right{
+  padding-right: 100px !important;
+}
+.green-light{
+  background-color: #D9D9D9;
+}
+.list{
+  list-style-type: none;
+  padding: 0;
+}
+.bi-check-circle-fill{
+  color: #00A0AA;
+  
+}
+ .bi-check-circle-fill{
+  color: black;
+ }
+.form-control{
+  width: 76% !important;
+}
+ 
